@@ -2,7 +2,7 @@
 
 Here is the official Pytorch implementation of the paper DGLG: A Novel Deep Generalized Legendre–Galerkin Approach to Optimal Filtering Problem.
 
-The paper is coauthored by Ji Shi, Xiaopei Jiao and Stephen Shing-Toung Yau.
+The paper is coauthored by Ji Shi, Xiaopei Jiao (equally contributed) and Stephen Shing-Toung Yau.
 
 It has been accepted by IEEE transactions on automatic control.
 
