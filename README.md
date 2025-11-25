@@ -29,3 +29,15 @@ If you feel this code is helpful, please kindly cite our paper.
   publisher={IEEE}
 }
 ```
+
+We have another variants of DGLG published in IEEE 63rd conference on decision and control
+```bibtex
+@inproceedings{shi2024novel,
+  title={A Novel Logarithmic Transformed Deep Galerkin Approach To Optimal Filtering Problem},
+  author={Shi, Ji and Jiao, Xiaopei and Yau, Stephen S-T},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
+  pages={2721--2726},
+  year={2024},
+  organization={IEEE}
+}
+```
