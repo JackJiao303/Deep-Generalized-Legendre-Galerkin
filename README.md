@@ -1,4 +1,4 @@
-# Deep-Generalized-Legendre-Galerkin
+# Deep-Generalized-Legendre-Galerkin nonlinear filtering
 
 Here is the official Pytorch implementation of the paper DGLG: A Novel Deep Generalized Legendre–Galerkin Approach to Optimal Filtering Problem.
 
