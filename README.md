@@ -2,10 +2,11 @@
 
 Here is the official Pytorch implementation of the paper DGLG: A Novel Deep Generalized Legendre–Galerkin Approach to Optimal Filtering Problem.
 
-The paper is coauthored by Zheyuan Hu, Zekun Shi, George Em Karniadakis, Kenji Kawaguchi.
+The paper is coauthored by Ji Shi, Xiaopei Jiao and Stephen Shing-Toung Yau.
 
-It has been accepted by Computer Methods in Applied Mechanics and Engineering.
+It has been accepted by IEEE transactions on automatic control.
 
-arXiv version: https://arxiv.org/abs/2312.14499
+Journal version: https://ieeexplore.ieee.org/document/10735353
 
-Journal version (Open Access): https://www.sciencedirect.com/science/article/pii/S0045782524001397
+# Code explanation
+
