@@ -6,7 +6,7 @@ The paper is coauthored by Ji Shi, Xiaopei Jiao (equally contributed) and Stephe
 
 It has been accepted by IEEE transactions on automatic control.
 
-Journal version: https://ieeexplore.ieee.org/document/10735353
+Paper link: https://ieeexplore.ieee.org/document/10735353
 
 # Code explanation
 
